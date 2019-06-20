@@ -23,4 +23,4 @@ Once the server is running, open the project in the shape of 'https://projectnam
 
 
 ##Server
-#https://the_burger_builder-t882200.c9users.io:8080/
+https://the-burger-builder-t882200.c9users.io:8080
